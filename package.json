@@ -1,0 +1,31 @@
+{
+  "name": "yozakura",
+  "displayName": "Yozakura (Midnight Cherry Blossom)",
+  "description": "A visual studio code theme based on the beauty of cherry blossoms at night, \"yozakura\".",
+  "version": "0.0.1",
+  "publisher": "hodakan",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "japan",
+    "sakura",
+    "cherry blossom",
+    "yozakura",
+    "yozakura midnight cherry blossom"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yozakura (Midnight Cherry Blossom)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yozakura (Midnight Cherry Blossom)-color-theme.json"
+      }
+    ]
+  }
+}
