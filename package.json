@@ -2,7 +2,7 @@
   "name": "yozakura",
   "displayName": "Yozakura (Midnight Cherry Blossom)",
   "description": "A visual studio code theme based on the beauty of cherry blossoms at night, \"yozakura\".",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "hodakan",
   "engines": {
     "vscode": "^1.96.0"
