@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.96.0"
   },
-  "icon": "icon/icon.png",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/hodaknak/yozakura.git"
